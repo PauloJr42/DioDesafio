@@ -22,6 +22,7 @@ body{
 	padding: 10px;
 	border: 10px solid fuchsia;
 	margin: 20px;
+	border-radius: 20px;
 	
 }
 
@@ -30,4 +31,10 @@ body{
 	padding: 15px;
 	border: 10px solid fuchsia;
 	margin: 20px;
+}
+
+.imagen{
+	border-radius: 50%;
+	size: 5px;
+	border: 10px solid fuchsia;
 }

@@ -8,7 +8,7 @@
 	</head>
 		<body>
 			<header class="cabecalho">
-				<IMG alt="Mecanico chefe"
+				<IMG class="imagen" alt="Mecanico chefe"
 				src="https://d6scj24zvfbbo.cloudfront.net/7c8a9b29497917dd12def0d2928ff99c/200000001-19b281aae3/700/1493560_838711872807135_4676242748335598937_o.jpg?ph=112b4d66c1" />
 				<h1 id="titulo">IMR Serviços</h1>
 			</header>
