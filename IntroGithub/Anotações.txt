@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Teste da criação de arquivos locais para subir no git!
+=======
+Teste da criação de arquivos locais para subir no git!
+>>>>>>> 5bb63451bb771b678464bf1f44b6dfe06be9be58
