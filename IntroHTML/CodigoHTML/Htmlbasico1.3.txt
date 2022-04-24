@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>IMR Serviços</title>
+		<LINK rel="stylesheet" href="HtmlbasicoCSS.css"/>
+	</head>
+		<body>
+			<header class="cabecalho">
+				<IMG alt="Mecanico chefe"
+				src="https://d6scj24zvfbbo.cloudfront.net/7c8a9b29497917dd12def0d2928ff99c/200000001-19b281aae3/700/1493560_838711872807135_4676242748335598937_o.jpg?ph=112b4d66c1" />
+				<h1 id="titulo">IMR Serviços</h1>
+			</header>
+			<section>
+				<header>
+					<h2 class="subtitulo">Posts</h2>
+				</header>
+				<article class="post">
+					<header>
+						<H3 class="descricao">Sobre a IMR Serviços</H3>
+					</header>
+					<p>
+						A <A href="https://www.imrservicos.webnode.com" target="_blank_">IMR
+						Serviços</A> foi concebida através da união de profissionais com vasta
+						experiência no mercado e hoje divide-se nas áreas dos Serviços de
+						Manutenção (Preventiva, Corretiva e Preditiva) , formando uma
+						empresa atuante nas áreas de Instalações Elétricas de Baixa Tensão,
+						Monitoramento e Segurança, Centrais de Ar Condicionado, Grupos
+						Geradores, Motores Elétricos... Entre em contato atravez do site ou
+						do <A href="mailto:paulosraiva@hotmail.com" target="_blank_">Email</A>.
+					</p>
+					<IMG alt="Aceitamos cartões"
+						src="https://d6scj24zvfbbo.cloudfront.net/7c8a9b29497917dd12def0d2928ff99c/200000004-1b49f1c433/700/adesivo_bandeiras_PagSeguro_dez2016.jpg?ph=112b4d66c1" />
+				</article>
+			</section>
+			<footer> 
+				<UL>
+					<LI>
+						<A>Telefone: (85)999878625</A>
+					</LI>
+					<LI>
+						<A href="https://www.instagram.com/imr_servicos/" target="_blank_">Instagram</A>
+					</LI>
+				</UL>
+			</footer>
+
+		</body>
+</html>

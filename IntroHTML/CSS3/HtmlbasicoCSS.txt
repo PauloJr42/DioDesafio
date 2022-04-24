@@ -1,0 +1,33 @@
+#titulo{
+	color: green;
+}
+
+.subtitulo{
+	color: gray;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+}
+
+.descricao{
+	color: red;
+}
+
+body{
+	color: olive;
+	background: navy;
+}
+
+.post{
+	background: white;
+	padding: 10px;
+	border: 10px solid fuchsia;
+	margin: 20px;
+	
+}
+
+.cabecalho{
+	background: white;
+	padding: 15px;
+	border: 10px solid fuchsia;
+	margin: 20px;
+}

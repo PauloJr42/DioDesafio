@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>IMR Serviços</title>
+</head>
+<body>
+	<header>
+		<h1>IMR Serviços</h1>
+	</header>
+	<section>
+		<header>
+			<h2>Posts</h2>
+		</header>
+		<article>
+			<header>
+				<H3>Sobre a IMR Serviços</H3>
+			</header>
+			<p>
+				A <A href="https://www.imrservicos.webnode.com" target="_blank_">IMR
+					Serviços</A> foi concebida através da união de profissionais com vasta
+				experiência no mercado e hoje divide-se nas áreas dos Serviços de
+				Manutenção (Preventiva, Corretiva e Preditiva) , formando uma
+				empresa atuante nas áreas de Instalações Elétricas de Baixa Tensão,
+				Monitoramento e Segurança, Centrais de Ar Condicionado, Grupos
+				Geradores, Motores Elétricos... Entre em contato atravez do site ou
+				do <A href="mailto:paulosraiva@hotmail.com" target="_blank_">Email</A>.
+			</p>
+		</article>
+	</section>
+	<footer> </footer>
+
+</body>
+</html>
