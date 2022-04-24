@@ -1,1 +1,0 @@
-Teste da criação de arquivos locais para subir no git!
