@@ -3,3 +3,11 @@ Teste da criação de arquivos locais para subir no git!
 =======
 Teste da criação de arquivos locais para subir no git!
 >>>>>>> 5bb63451bb771b678464bf1f44b6dfe06be9be58
+
+git status = indentificação de alteração no repositorio
+
+git add . = apos a verificação de alterações no status use GIT ADD . para adicionar as alterações para fila do controle de versão local.
+
+git commit -m "comentario" = Montagem de publicação para a nuvem das atualizações 
+
+git push origin main = Comando para grava todas as alterações na nuvem do github dentro do seu repositorio remoto!
