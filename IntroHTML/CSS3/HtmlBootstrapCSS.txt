@@ -1,0 +1,25 @@
+.body-image{
+	margin-left: 6%;
+	text-transform: uppercase;
+}
+
+.navbar{
+	background-color: #eab602;
+	
+}
+
+.quem-somos{
+	background: silver;
+}
+
+.margin{
+	padding: 60px;
+}
+
+.ul-nav{
+	margin-left: 73%;
+}
+
+.parceiros{
+	background-color: #eab602;
+}
